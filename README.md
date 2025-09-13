@@ -1,4 +1,4 @@
-# motivation_generator.py
+# motivation_generator.p
 import random
 
 quotes = [
